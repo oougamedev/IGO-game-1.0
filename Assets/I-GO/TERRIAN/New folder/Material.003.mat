@@ -66,7 +66,11 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
+<<<<<<< HEAD
     - _Glossiness: 0.5
+=======
+    - _Glossiness: 0.59999996
+>>>>>>> scene
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
@@ -78,6 +82,11 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
     - _Color: {r: 0.9063317, g: 0.8570455, b: 0.37232068, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+=======
+    - _Color: {r: 0.9063317, g: 0.9063317, b: 0.9063317, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> scene
   m_BuildTextureStacks: []

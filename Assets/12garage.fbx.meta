@@ -3,7 +3,54 @@ guid: 466ce591f42089b458bc6e0918cea75d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Composite Rubber
+    second: {fileID: 4362962105363994262, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: High Gloss Plastic
+    second: {fileID: 4362962105363994262, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: -342317143127669590, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 586645097001841572, guid: bf3d997850ab9254e924afe881c4c865, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: -6794277094706022342, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2898443138086935759, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 3998981659316576727, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metalic Paint
+    second: {fileID: 4386608834874495736, guid: bf3d997850ab9254e924afe881c4c865,
+      type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

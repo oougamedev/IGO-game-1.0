@@ -78,6 +78,11 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
     - _Color: {r: 0.26022696, g: 0.30023924, b: 0.45387036, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+=======
+    - _Color: {r: 0.325808, g: 0.9063317, b: 0.19171408, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+>>>>>>> scene
   m_BuildTextureStacks: []
