@@ -20,14 +20,13 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.004
-    second: {fileID: 4874126678125670354, guid: 9d54027edd678df4798f5829af6dc9d6,
+    second: {fileID: -2813467912831258332, guid: 7373a268adeb6d249837e3be8e3097b0,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.005
-    second: {fileID: -3846018093981099296, guid: 310fade5ca4f3b3449235b8fcb82fccd,
-      type: 3}
+    second: {fileID: 2100000, guid: fb54c6c0e2c236b42bb856a16208d182, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -38,18 +37,18 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.007
-    second: {fileID: 2100000, guid: 06a0cc21c37dd534ba4de62a0a68758e, type: 2}
+    second: {fileID: 2100000, guid: 92ad109d12a8f724d8e92bf571f34b34, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.008
-    second: {fileID: -8274133419916619345, guid: e94cc375412140f48b84a5c6f8cc9f34,
+    second: {fileID: 3998981659316576727, guid: bf3d997850ab9254e924afe881c4c865,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Metalic Paint
-    second: {fileID: -7198559261415225722, guid: 466ce591f42089b458bc6e0918cea75d,
+    second: {fileID: -3042905080577945682, guid: bf3d997850ab9254e924afe881c4c865,
       type: 3}
   materials:
     materialImportMode: 2
