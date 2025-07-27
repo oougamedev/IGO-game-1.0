@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6f6ce14fba9ea514e8755aee9e62b72a
+guid: 263e0c5d06f42654aa4c4c674fe68a80
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -26,13 +26,13 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.005
-    second: {fileID: -6922793697723135513, guid: e8491e2bd277e924d9f0d0b6bea307fd,
+    second: {fileID: -3846018093981099296, guid: 310fade5ca4f3b3449235b8fcb82fccd,
       type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.006
-    second: {fileID: -6922793697723135513, guid: e8491e2bd277e924d9f0d0b6bea307fd,
+    second: {fileID: 4874126678125670354, guid: 9d54027edd678df4798f5829af6dc9d6,
       type: 3}
   - first:
       type: UnityEngine:Material
@@ -49,7 +49,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Metalic Paint
-    second: {fileID: 9101280890363022628, guid: 466ce591f42089b458bc6e0918cea75d,
+    second: {fileID: -7198559261415225722, guid: 466ce591f42089b458bc6e0918cea75d,
       type: 3}
   materials:
     materialImportMode: 2
